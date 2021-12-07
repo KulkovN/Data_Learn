@@ -1,5 +1,6 @@
 # рабочее окружение на локальной машине 
 env/
+token
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
